@@ -1,6 +1,5 @@
-# Nick Bushuev
+# Nick Bushuev - Data analytics
 
-Data analytics
 
 Google Data Studio Dashboards
 
