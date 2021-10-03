@@ -1,4 +1,7 @@
+![image](https://scontent-hel3-1.xx.fbcdn.net/v/t31.18172-8/1529934_777081952305343_1294523418_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=VLFEnOMo3mkAX8CjuYy&_nc_ht=scontent-hel3-1.xx&oh=d553b416ee62e7f42f3c7cca90568ebe&oe=617E2913)
 # Nick Bushuev 
+A passionate Data Analyst experienced in analyzing commercial and marketing data and in visualizing through dashboard reporting to develop business strategy, forecasting decisions, using tools such as Power BI, Google Data Studio Excel. Currently enhancing my statistical and technical knowledge in SQL, Python and R.
+
 ## Data analytics
 
 
